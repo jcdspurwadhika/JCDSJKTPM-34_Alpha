@@ -12,7 +12,8 @@ A machine learning project predicting term deposit subscriptions for bank market
 - Yonathan Hary Hutagalung
 
 ## External Links:
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red)]([https://streamlit.io/](https://bankmarketingprojectalpha.streamlit.app/))
+[Streamlit Link](https://bankmarketingprojectalpha.streamlit.app/)
+[Tableau Public Link]()
 
 ## Overview
 
