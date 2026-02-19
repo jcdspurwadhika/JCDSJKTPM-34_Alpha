@@ -11,6 +11,9 @@ A machine learning project predicting term deposit subscriptions for bank market
 - Tengku Arika Hazera
 - Yonathan Hary Hutagalung
 
+## External Links:
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red)]([https://streamlit.io/](https://bankmarketingprojectalpha.streamlit.app/))
+
 ## Overview
 
 This project is part of the **Purwadhika Data Science Bootcamp Final Capstone Project**. It aims to predict whether a bank client will subscribe to a term deposit based on demographic information, financial status, and previous campaign interactions.
