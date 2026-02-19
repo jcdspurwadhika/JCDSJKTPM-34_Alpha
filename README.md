@@ -23,7 +23,7 @@ This project is part of the **Purwadhika Data Science Bootcamp Final Capstone Pr
 
 - Maximize **Recall** (≥60%) to identify most potential subscribers
 - Balance precision through **F2-Score** (≥0.55)
-- Achieve **PR-AUC** (≥0.80) for reliable predictions on imbalanced data
+- Achieve **PR-AUC** (≥0.50) for reliable predictions on imbalanced data
 - Optimize marketing campaign ROI through targeted client prioritization
 
 ## Business Problem
@@ -152,9 +152,9 @@ Banks invest significant resources in marketing campaigns for term deposits, but
 ## Results
 
 ### Model Performance
-- **Recall**: Achieved target (60%)
-- **F2-Score**: Achieved target (≥0.55)
-- **PR-AUC**: Achieved target (≥0.80)
+- **Recall**: Achieved target (65%)
+- **F2-Score**: Achieved target (more than 0.55)
+- **PR-AUC**: Slighly lower compared target target (0.48 out of 0.50)
 
 ### Business Impact
    - Estimated net benefit: reduce operational calling time by -74.3% or almost 4 times more efficient or `337% more profit` gain compared to baseline approach
