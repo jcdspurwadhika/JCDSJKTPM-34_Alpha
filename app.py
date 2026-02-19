@@ -330,7 +330,7 @@ def main():
 
 
     elif choice == "Batch Prediction (CSV)":
-        st.header("Upload CSV for Batch Prediction")
+        st.header("Please Upload CSV with same column names for Batch Prediction")
         if st.button("⬅️ Back to Home"):
             st.session_state.page = "Home"
             st.rerun()        
@@ -369,6 +369,7 @@ def main():
         trained_model = 'bank_model_trained.sav'
         st.header("Train/Retrain Model")
         st.info(f"This will train a new LGBM model with specified parameters and save it as `{trained_model}`.")
+        st.info("Please ensure correct naming for the columns and their data types in the uploaded CSV.")
         if st.button("⬅️ Back to Home"):
             st.session_state.page = "Home"
             st.rerun()
